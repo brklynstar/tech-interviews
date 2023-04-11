@@ -2,11 +2,9 @@
 # Question: Write a Python program to reverse a string without using built-in functions.
 
 
+# Solution-
 
-
-Finally, the function returns the reversed string reversed_string. This program effectively reverses the input string without using any built-in Python functions for string manipulation such as the reversed function or string slicing.
-
-# This Python program defines a function named reverse_string
+# Defines a function named reverse_string and
 # takes a single argument string, which is the string to be reversed
 
 def reverse_string(string): 
@@ -27,5 +25,5 @@ def reverse_string(string):
 # function returns the reversed string reversed_string. 
 
   return reversed_string
-# This program effectively reverses the input string without
-# using any built-in Python functions for string manipulation such as the reversed function or string slicing.
+
+
